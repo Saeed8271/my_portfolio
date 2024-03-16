@@ -18,15 +18,10 @@ desktops, tablets, and mobile phones.
 
 
 ## Desktop Preview
+![](./website_demo_image/desktop_preview.jpg "Desktop Demo")
 
 ## Mobile Preview
-
-
-![](./website_demo_image/mobile_preview3.jpg "Mobile Demo")
-![](./website_demo_image/mobile_preview4.jpg "Mobile Demo")
-![](./website_demo_image/mobile_preview5.jpg "Mobile Demo")
-![](./website_demo_image/mobile_preview6.jpg "Mobile Demo")
-
+![](./website_demo_image/mobile_preview.jpg "Mobile Demo")
 
 ## Features
 
