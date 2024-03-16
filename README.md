@@ -13,7 +13,19 @@ Welcome to my portfolio project repository! This project showcases my skills in 
 
 ## Description
 
-This portfolio project is a representation of my skills, experiences, and projects. It's built using HTML for structuring, CSS for styling, and JavaScript for interactivity. The design is responsive, ensuring that it looks great and functions well on various devices, including desktops, tablets, and mobile phones.
+This portfolio project is a representation of my skills, experiences, and projects. It's built using HTML for structuring, CSS for styling, and JavaScript for interactivity. The design is responsive, ensuring that it looks great and functions well on various devices, including 
+desktops, tablets, and mobile phones.
+
+
+## Desktop Preview
+
+## Mobile Preview
+![](./website_demo_image/mobile_preview1.jpg "Mobile Demo")
+![](./website_demo_image/mobile_preview2.jpg "Mobile Demo")
+![](./website_demo_image/mobile_preview3.jpg "Mobile Demo")
+![](./website_demo_image/mobile_preview4.jpg "Mobile Demo")
+![](./website_demo_image/mobile_preview5.jpg "Mobile Demo")
+![](./website_demo_image/mobile_preview6.jpg "Mobile Demo")
 
 ## Features
 
