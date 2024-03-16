@@ -34,8 +34,11 @@ Feel free to explore the code, modify it to suit your needs, or use it as a temp
 
 ## Feedback
 
-Feedback and contributions are welcome! If you have any suggestions, improvements, or bug fixes, please don't hesitate to open an issue or submit a pull request.
+Feedback and contributions are welcome! If you have any suggestions, improvements, or bug fixes, please don't hesitate to open an issue or submit a pull request or reach out to me at saeedanwar0930@gmail.com .
 
 Thank you for visiting my portfolio repository!
 
 Saeed Anwar
+
+
+
