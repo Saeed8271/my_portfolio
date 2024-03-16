@@ -21,8 +21,7 @@ desktops, tablets, and mobile phones.
 
 ## Mobile Preview
 
-![]<img src=./website_demo_image/mobile_preview1.jpg height="100" width="100" "Mobile Demo">
-![]<img src="./website_demo_image/mobile_preview2.jpg" height="80" width="80" "Mobile Demo">
+
 ![](./website_demo_image/mobile_preview3.jpg "Mobile Demo")
 ![](./website_demo_image/mobile_preview4.jpg "Mobile Demo")
 ![](./website_demo_image/mobile_preview5.jpg "Mobile Demo")
