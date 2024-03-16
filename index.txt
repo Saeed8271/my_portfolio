@@ -1,0 +1,185 @@
+Personal Portfolio
+
+# sidebar
+
+alt = Saeed Anwar
+Saeed Anwar
+Web developer
+
+Show Contacts
+
+Email
+saeedanwar0930@gmail.com
+
+Phone
+8271480524
+
+Birthday
+Feb 10, 2003
+
+Location
+Patna, Bihar, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+👋Hello! I am Saeed Anwar, currently in my 2nd year of B.tech at Maulana Azad College Of Engineering, Patna. I'm passionate about leveraging technology to solve real-world problems and always sought ways to merge my creative instincts with practical solutions.
+In terms of technical skills, I am proficient in C, C++, Java and continuously enhancing my knowledge of Data Structures and Algorithms.
+Additionally, I'm adept at HTML, CSS, and currently honing my skills in Javascript to strengthen my web development capabilities. I'm also venturing into Android development using Kotlin to broaden my skill set.
+Skills :- HTML, CSS, JAVASCRIPT, C , C++, JAVA, KOTLIN, DSA through C++
+"As a second-year B.Tech student, I'm currently in the learning phase, with more to come. I aim to enhance my skills and broaden my field of study to become more proficient in all aspects of technical knowledge."
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+// description //
+
+alt = Jessica miller
+Jessica miller
+// description //
+
+alt = Emily evans
+Emily evans
+// description //
+
+alt = Henry william
+Henry william
+// description //
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+// data //
+
+Skills
+// data //
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2024
+Design
+
+alt = Best fonts every designer
+Design
+
+alt = Design digest #80
+Design
+
+alt = UI interactions of the week
+Design
+
+alt = The forgotten art of spacing
+Design
+
+alt = Design digest #79
+Design
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
