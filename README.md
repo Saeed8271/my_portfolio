@@ -20,13 +20,7 @@ desktops, tablets, and mobile phones.
 ## Desktop Preview
 
 ## Mobile Preview
-![](./website_demo_image/mobile_preview1.jpg "Mobile Demo")
-![](./website_demo_image/mobile_preview2.jpg "Mobile Demo")
-![](./website_demo_image/mobile_preview3.jpg "Mobile De![mobile_preview6](https://github.com/Saeed8271/my_portfolio/assets/120299968/6fd68075-9771-4457-b5e4-1566eb4189a9)
-mo")
-![](./website_demo_image/mobile_preview4.jpg "Mobile Demo")
-![](./website_demo_image/mobile_preview5.jpg "Mobile Demo")
-![](./website_demo_image/mobile_preview6.jpg "Mobile Demo")
+
 
 ## Features
 
