@@ -2,9 +2,7 @@
 
 Welcome to my portfolio project repository! This project showcases my skills in web development using HTML, CSS, and JavaScript. It's designed to be fully responsive, ensuring a seamless experience across different devices and screen sizes.
 
-## Links
-
-- **YouTube Channel:** [Link](https://www.youtube.com/channel/UChybDHQz90WzUrB8wZB8Mdw)
+## Contact me on -
 - **Instagram:** [Link](https://www.instagram.com/saeedanwar2454/)
 - **Facebook:** [Link](https://www.facebook.com/profile.php?id=100057642566554)
 - **LinkedIn:** [Link](https://www.linkedin.com/in/saeed-anwar-23450a2b9/)
