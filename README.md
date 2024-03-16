@@ -2,8 +2,8 @@
 
 Welcome to my portfolio project repository! This project showcases my skills in web development using HTML, CSS, and JavaScript. It's designed to be fully responsive, ensuring a seamless experience across different devices and screen sizes.
 
-## - **Netlify link** -> https://saeedanwar-portfolio.netlify.app/
-## **Github link** ->  https://saeed8271.github.io/my_portfolio/
+## Netlify link -> https://saeedanwar-portfolio.netlify.app/
+## Github link ->  https://saeed8271.github.io/my_portfolio/
 
 ## Contact me on -
 - **Instagram:** [Link](https://www.instagram.com/saeedanwar2454/)
